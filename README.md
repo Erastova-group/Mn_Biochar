@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1119456778.svg)](https://doi.org/10.5281/zenodo.18963461)
 
-This repository contains the atomistic models and GROMACS-compatible coordinate/topology files used in the paper:
+This repository contains atomistic models and GROMACS-compatible coordinate/topology files used in the paper:
 
 *Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations* by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. DOI pending.
 
