@@ -1,4 +1,4 @@
-# Atomistic Models of Wood and Straw Biochar for Mn(II) removal
+# Atomistic Models of Wood and Straw Biochar for Mn(II) Removal
 
 [![DOI](https://zenodo.org/badge/1119456778.svg)](https://doi.org/10.5281/zenodo.18963461)
 
