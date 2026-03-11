@@ -1,8 +1,8 @@
-# Atomistic Models for Mn(II) Removal by Biochar
+# Atomistic Models of Wood and Straw Biochar for Mn(II) removal
 
 This repository contains the atomistic models and GROMACS-compatible coordinate/topology files used in the paper:
 
-**Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations** by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova.
+*Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations* by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova.
 
 The repository includes final equilibrated models of biochar systems containing Mn(II), chloride ions, and water, together with supporting topology and force-field files for straw- and wood-derived biochars.
 
