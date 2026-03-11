@@ -6,6 +6,8 @@ This repository contains atomistic models and GROMACS-compatible coordinate/topo
 
 _**Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations**_ by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. DOI pending.
 
+The data in this repository is produced by Audrey Ngambia, Haitao Huang, Zhuodong Lyu, and Valentina Erastova at the School of Chemistry, University of Edinburgh.
+
 The repository includes final equilibrated models of biochar systems containing Mn(II), chloride ions, and water, together with supporting topology and force-field files for straw- and wood-derived biochars.
 
 ## Naming
