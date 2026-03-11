@@ -1,2 +1,92 @@
-This repository contains information on the straw and wood biochar models used in the study of Manganese adsorption. 
-The building blocks (.gro or cml file) of the biochars can be found in their respective directory with the associated topology of the building blocks are in the topology files.
+# Atomistic Models for Mn(II) Removal by Biochar
+
+This repository contains the atomistic models and GROMACS-compatible coordinate/topology files used in the paper:
+
+**Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations** by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova.
+
+The repository includes final equilibrated models of biochar systems containing Mn(II), chloride ions, and water, together with supporting topology and force-field files for straw- and wood-derived biochars.
+
+## Naming
+
+- `S` = straw-derived biochar
+- `W` = wood-derived biochar
+- `400` / `800` = pyrolysis temperature in °C
+- `DP` = partially deprotonated model
+
+### Included systems
+
+- `S400` – straw biochar produced at 400 °C
+- `S400DP` – partially deprotonated straw biochar produced at 400 °C
+- `S800` – straw biochar produced at 800 °C
+- `W400` – wood biochar produced at 400 °C
+- `W400DP` – partially deprotonated wood biochar produced at 400 °C
+- `W800` – wood biochar produced at 800 °C
+
+## Repository structure
+
+```text
+.
+├── PDB_systems/
+├── Straw_BC/
+└── Wood_BC/
+```
+
+### `PDB_systems/`
+Final equilibrated PDB files for the complete simulation systems, including biochar, Mn2+ and Cl- ions, and water.
+
+### `Straw_BC/`
+Straw-derived biochar models and associated GROMACS files:
+
+- `oplsaa.ff/` – local copy of the OPLS-AA force field used for these systems
+- `S400/` – straw biochar produced at 400 °C
+- `S400DP/` – partially deprotonated straw biochar produced at 400 °C
+- `S800/` – straw biochar produced at 800 °C
+
+### `Wood_BC/`
+Wood-derived biochar models and associated GROMACS files:
+
+- `oplsaa.ff/` – local copy of the OPLS-AA force field used for these systems
+- `W400/` – wood biochar produced at 400 °C
+- `W400DP/` – partially deprotonated wood biochar produced at 400 °C
+- `W800/` – wood biochar produced at 800 °C
+
+## File types
+
+| File type | Description |
+| --- | --- |
+| `.pdb` | Final equilibrated full-system structures |
+| `.gro` | GROMACS coordinate files |
+| `.itp` | GROMACS include topology files for biochar blocks |
+| `.top` | GROMACS system topology files |
+| `.atp` | Atom type definition files where required |
+
+## Contents
+
+This repository provides:
+
+- final equilibrated PDB models of biochar + Mn(II) + Cl- + water systems;
+- GROMACS `.gro`, `.top`, `.itp`, and `.atp` files for the biochar models;
+- OPLS-AA force-field files used in the simulations;
+- condensed biochar model files and equilibrated surface-exposed biochar structures where available.
+
+### Notes on file naming
+
+- Files named `surf_exposed_*.gro` correspond to equilibrated surface-exposed biochar material.
+- Directories also contain biochar molecular building block files (for example `S400-3.*` or deprotonated variants).
+
+
+## Citation
+
+If you use these models, please cite the associated publications:
+
+1. Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. "Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations" **DOI PENDING**
+
+2. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024). [10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037)
+
+
+## Contact
+
+For questions about the models or files in this repository, please contact Valentina Erastova valentina.erastova@ed.ac.uk
+
+
+
