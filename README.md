@@ -1,8 +1,10 @@
 # Atomistic Models of Wood and Straw Biochar for Mn(II) removal
 
+[![DOI](https://zenodo.org/badge/1119456778.svg)](https://doi.org/10.5281/zenodo.18963461)
+
 This repository contains the atomistic models and GROMACS-compatible coordinate/topology files used in the paper:
 
-*Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations* by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. DOI: [10.5281/zenodo.18963462](https://doi.org/10.5281/zenodo.18963462)
+*Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations* by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. DOI pending.
 
 The repository includes final equilibrated models of biochar systems containing Mn(II), chloride ions, and water, together with supporting topology and force-field files for straw- and wood-derived biochars.
 
@@ -79,9 +81,11 @@ This repository provides:
 
 If you use these models, please cite the associated publications:
 
-1. Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. "Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations" [10.5281/zenodo.18963462](https://doi.org/10.5281/zenodo.18963462)
+1. Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. "Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations". DOI PENDING
 
-2. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024). [10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037)
+2. Audrey Ngambia, & Valentina Erastova. (2026). Erastova-group/Mn_Biochar: publication data (v1.0.0). Zenodo. [10.5281/zenodo.18963462](https://doi.org/10.5281/zenodo.18963462)
+
+3. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024). [10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037)
 
 
 ## Contact
