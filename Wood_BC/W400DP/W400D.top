@@ -1,0 +1,162 @@
+
+; Topology file for Deprotonated Biochar Molecular Model
+; by Audrey Ngambia, Valentina Erastova
+; U of Edinburgh, 2025
+; https://github.com/Erastova-group/Mn_Biochar
+
+#include "../oplsaa.ff/forcefield.itp"
+#include "W400D.atp"
+
+#include "W400D.itp"
+#include "W400D_dp.itp"
+#include "../oplsaa.ff/spc.itp"
+
+
+[ system ]
+; Name
+W400D
+
+[ molecules ]
+; Compound        #mols
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12d	1
+4G12d	1
+4G12c 	1
+4G12d	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12d	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+4G12c 	1
+
+

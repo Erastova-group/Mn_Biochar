@@ -1,0 +1,28 @@
+; Topology file for Deprotonated Biochar Molecular Model S400
+; by Audrey Ngambia, Valentina Erastova
+; U of Edinburgh, 2025
+; https://github.com/Erastova-group/Mn_Biochar
+
+; S400 is C-H-O only building block (same as used in W400)
+; S400-3 is C-H-O-N-containing building block
+
+; Include forcefield parameters
+#include "../oplsaa.ff/forcefield.itp"
+
+; include itp files
+#include "S400.atp"
+#include "S400-3.atp"
+#include "S400.itp"
+#include "S400-3.itp"    
+
+
+; include name of the system
+[ system ]
+; Name
+S400 
+
+[ molecules ]
+; Compound        #mols
+4G12c              300
+NB4               300
+

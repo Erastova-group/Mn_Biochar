@@ -1,0 +1,17 @@
+; Topology file for Biochar Molecular Model S800
+; by Audrey Ngambia, Valentina Erastova
+; U of Edinburgh, 2025
+; https://github.com/Erastova-group/Mn_Biochar
+
+; block contains N as well as C, H, O
+
+#include "S800.itp"
+
+
+[ system ]
+; Name
+S800
+
+[ molecules ]
+; Compound        #mols
+SBC                158
