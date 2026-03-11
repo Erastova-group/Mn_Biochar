@@ -2,7 +2,7 @@
 
 This repository contains the atomistic models and GROMACS-compatible coordinate/topology files used in the paper:
 
-*Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations* by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova.
+*Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations* by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. DOI: [10.5281/zenodo.18963462](https://doi.org/10.5281/zenodo.18963462)
 
 The repository includes final equilibrated models of biochar systems containing Mn(II), chloride ions, and water, together with supporting topology and force-field files for straw- and wood-derived biochars.
 
@@ -79,7 +79,7 @@ This repository provides:
 
 If you use these models, please cite the associated publications:
 
-1. Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. "Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations" **DOI PENDING**
+1. Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. "Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations" [10.5281/zenodo.18963462](https://doi.org/10.5281/zenodo.18963462)
 
 2. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024). [10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037)
 
