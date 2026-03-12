@@ -60,7 +60,7 @@ Wood-derived biochar models and associated GROMACS files:
 | --- | --- |
 | `.pdb` | Final equilibrated full-system structures |
 | `.gro` | GROMACS coordinate files |
-| `.itp` | GROMACS include topology files for biochar blocks |
+| `.itp` | GROMACS include topology files for biochar building blocks |
 | `.top` | GROMACS system topology files |
 | `.atp` | Atom type definition files where required |
 
