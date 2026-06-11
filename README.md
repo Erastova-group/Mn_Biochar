@@ -1,14 +1,16 @@
 # Atomistic Models of Wood and Straw Biochar for Mn(II) Removal
 
-[![DOI](https://zenodo.org/badge/1119456778.svg)](https://doi.org/10.5281/zenodo.18963461)
-
 This repository contains atomistic models and GROMACS-compatible coordinate/topology files used in the paper:
 
-_**Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations**_ by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. DOI pending.
+_**Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations**_ by Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. arXiv preprint (2026). DOI: [10.48550/arXiv.2603.22144](https://doi.org/10.48550/arXiv.2603.22144)
 
 The data in this repository is produced by Audrey Ngambia, Haitao Huang, Zhuodong Lyu, and Valentina Erastova at the School of Chemistry, University of Edinburgh.
 
 The repository includes final equilibrated models of biochar systems containing Mn(II), chloride ions, and water, together with supporting topology and force-field files for straw- and wood-derived biochars.
+
+If you would like **to build your own biochar model** -- please follow our [Biochar Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)
+
+----
 
 ## Naming
 
@@ -83,7 +85,7 @@ This repository provides:
 
 If you use these models, please cite the associated publications:
 
-1. Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. "Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations". DOI PENDING
+1. Audrey Ngambia, Anastasiia Gavrilova, Haitao Huang, Zhuodong Lyu, Ondřej Mašek, Margaret Graham, and Valentina Erastova. "Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations". arXiv preprint (2026). DOI: [10.48550/arXiv.2603.22144](https://doi.org/10.48550/arXiv.2603.22144)
 
 2. Audrey Ngambia, & Valentina Erastova. (2026). Erastova-group/Mn_Biochar: publication data (v1.0.0). Zenodo. [10.5281/zenodo.18963462](https://doi.org/10.5281/zenodo.18963462)
 
